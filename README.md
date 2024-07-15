@@ -92,7 +92,9 @@ update admin.py file
 
 http://127.0.0.1:8000/admin
 
+![Screenshot (16)](https://github.com/user-attachments/assets/5022dbc6-98bf-49c5-a481-2d6310f7c2b0)
 
+![Screenshot (17)](https://github.com/user-attachments/assets/df2a618b-1c04-4fb6-a9be-d400907d4808)
 
 TO BE CONTINUED ON PAGE 389
 
