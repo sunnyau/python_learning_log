@@ -2,7 +2,7 @@
 
 This project follows the Python Crash Course book, chapter 18. Getting Started with Django
 
-![Screenshot 2024-07-15 071148](https://github.com/user-attachments/assets/6ec68298-bae8-4ee0-a567-c9a6e76f5d02)
+![book](https://github.com/user-attachments/assets/11957188-0ba1-405f-9a78-6af548f8b102)
 
 # Setting Up a Project
 
