@@ -1,6 +1,8 @@
 # python_learning_log
 
-This project follows the Python Crash Course, chapter 18. Getting Started with Django
+This project follows the Python Crash Course book, chapter 18. Getting Started with Django
+
+![Screenshot 2024-07-15 071148](https://github.com/user-attachments/assets/6ec68298-bae8-4ee0-a567-c9a6e76f5d02)
 
 # Setting Up a Project
 
